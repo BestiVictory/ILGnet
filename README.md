@@ -35,6 +35,7 @@ We achieve the state of the art of the aesthetic classification accuracy.
 
 our paper link:http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf
 
+our project：http://kislab.besti.edu.cn/victory/?p=242
 If you find our model/method/dataset useful, please cite our work:
 
 *************************************************************************************
