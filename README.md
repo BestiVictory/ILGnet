@@ -29,10 +29,13 @@ The way of test
 please use caffe test tools to test accuracy.
 
 The Accuracy 
-We set the dataset about AVA1 and AVA2.The AVA1'accuracy is 81.68%,and the AVA2 accuracy is 85.50%.
-If you find our model/method/dataset useful, please cite our work:
+The accuracy we achieve in the  AVA1 dataset is 81.68% with δ=0.
+The accuracy we achieve in the  AVA1 dataset is 85.50%.
+We achieve the state of the art of the aesthetic classification accuracy.
 
 our paper link:http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf
+
+If you find our model/method/dataset useful, please cite our work:
 
 *************************************************************************************
 @inproceedings{DBLP:conf/wcsp/JinCPTYL16,
