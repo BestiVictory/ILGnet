@@ -1,0 +1,15 @@
+train_net: "train.prototxt"
+test_net: "val.prototxt"
+test_iter: 533
+test_interval: 533
+display: 20
+base_lr: 0.00001
+lr_policy: "step"
+stepsize: 13325
+gamma: 0.96
+max_iter: 533000
+momentum: 0.9
+weight_decay: 0.0002
+snapshot: 5330
+snapshot_prefix: "bvlc_googlenet"
+solver_mode: GPU
