@@ -1,6 +1,6 @@
 # ILGnet
 
-This is an open-source project for the aesthetic evaluation of images based on the deep learning-caffe framework, which we completed in our the [Victory team of Besti](http://kislab.besti.edu.cn/victory/).
+This is an open-source project for the aesthetic evaluation of images based on the deep learning-caffe framework, which we completed in the [Victory team of Besti](http://kislab.besti.edu.cn/victory/).
 
 
 In this paper we investigate the image aesthetics classification problem, aka, automatically classifying an image into low or high aesthetic quality, which is quite a challenging problem beyond image recognition. Deep convolutional neural network (DCNN) methods have recently shown promising results for image aesthetics assessment. Currently, a powerful inception module is proposed which shows very high performance in object classification. However, the inception module has not been taken into consideration for the image aesthetics assessment problem. In this paper, we propose a novel DCNN structure codenamed ILGNet for image aesthetics classification, which introduces the Inception module and connects intermediate Local layers to the Global layer for the output. Besides, we use a pre-trained image classification CNN called GoogLeNet on the ImageNet dataset and fine tune our connected local and global layer on the large scale aesthetics assessment AVA dataset [1]. The experimental results show that the proposed ILGNet outperforms the state of the art results in image aesthetics assessment in the AVA benchmark.
@@ -33,21 +33,8 @@ The random partition programs are in the './src'
 
 **Our paper**
 
-**Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer**
+Xin Jin, Jingying Chi, Siwei Peng, Yulu Tian, Chaochen Ye and Xiaodong Li. **Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer**. The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), Yangzhou, China, 13-15 October, 2016 **[pdf](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)**(5.94MB)  **[oral presentation](http://jinxin.me/downloads/papers/019-WCSP2016a/WCSP2016-ILGNet-presentation.pdf)**(19.1MB) **[arXiv](https://arxiv.org/abs/1610.02256)**(1610.02256)  **[[Project]](http://kislab.besti.edu.cn/victory/?p=242)** 
 
-Xin Jin, Jingying Chi, Siwei Peng, Yulu Tian, Chaochen Ye and Xiaodong Li
-
-The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), Yangzhou, China, 13-15 October, 2016
-
-**[pdf](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)**(5.94MB) 
-
-**[oral presentation](http://jinxin.me/downloads/papers/019-WCSP2016a/WCSP2016-ILGNet-presentation.pdf)**(19.1MB) 
-
-**[arXiv](https://arxiv.org/abs/1610.02256)**(1610.02256) 
-
-**[[Project]](http://kislab.besti.edu.cn/victory/?p=242)** 
-
-**[[Code]](https://github.com/BestiVictory/ILGnet)**
 
 <img src="http://jinxin.me/downloads/pics/WCSP2016-Classification.jpg", width='700'>
 
