@@ -30,6 +30,15 @@ We achieve the state of the art of the aesthetic classification accuracy.
 
 The random partition programs are in the './src'
 
+**The Trained Models**
+The size of the trained model is above 500MB. 
+
+You can download them from the BaiduYun cloud disk:
+
+
+[ILGnet-AVA1.caffemodel](https://pan.baidu.com/s/1slMv4yp)
+[ILGnet-AVA2.caffemodel](https://pan.baidu.com/s/1bpBsIZH)
+
 
 **Our paper**
 
