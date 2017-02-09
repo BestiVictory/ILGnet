@@ -908,3 +908,9 @@ layers {
     }
   }
 }
+layers {
+  name: "loss1/loss"
+  type: SOFTMAX_LOSS
+  bottom: "loss1/classifier_cjy"
+  bottom: "label"
+}
