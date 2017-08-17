@@ -22,9 +22,9 @@ please use caffe test tools to test accuracy.
 
 **The Accuracy of this random partition in the './data'**
 
-The accuracy we achieve in the  AVA1 dataset is 81.68% with δ=0.
+The accuracy we achieve in the  AVA1 dataset is 81.68% with δ=0.And the accuracy is up to 82.66% using Inception V4.
 
-The accuracy we achieve in the  AVA2 dataset is 85.50%.
+The accuracy we achieve in the  AVA2 dataset is 85.50%.And the accuracy is up to 85.53% using Inception V4.
 
 We achieve the state of the art of the aesthetic classification accuracy.
 
