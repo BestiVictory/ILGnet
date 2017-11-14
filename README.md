@@ -51,7 +51,7 @@ Google Drive Links:
 
 [ILGnet-AVA2.caffemodel](https://drive.google.com/file/d/0B-wWngvfWr7WRDl4YUFNTmJqenM/view?usp=sharing)
 
-<font color=#ff0000>Plus:The deploy.prototxt before is wrong. Now we upload the correct file, and thanks for your suggestion.</font>
+<font color=red>Plus:The deploy.prototxt before is wrong. Now we upload the correct file, and thanks for your suggestion.</font>
 
 **Our paper**
 
