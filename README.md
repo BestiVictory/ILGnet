@@ -57,10 +57,14 @@ Google Drive Links:
 
 Xin Jin, Jingying Chi, Siwei Peng, Yulu Tian, Chaochen Ye and Xiaodong Li. **Deep Image Aesthetics Classification using Inception Modules and Fine-tuning Connected Layer**. The 8th International Conference on Wireless Communications and Signal Processing (**WCSP**), Yangzhou, China, 13-15 October, 2016 **[pdf](http://jinxin.me/downloads/papers/019-WCSP2016a/ILGNet-Final.pdf)**(5.94MB)  **[oral presentation](http://jinxin.me/downloads/papers/019-WCSP2016a/WCSP2016-ILGNet-presentation.pdf)**(19.1MB) **[arXiv](https://arxiv.org/abs/1610.02256)**(1610.02256)  **[[Project]](http://kislab.besti.edu.cn/victory/?p=242)** 
 
+<div align="center">
+  <img src="http://jinxin.me/downloads/pics/WCSP2016.jpg", width='700'><br><br>
+</div>
 
-<img src="http://jinxin.me/downloads/pics/WCSP2016.jpg", width='700'>
+<div align="center">
+  <img src="http://jinxin.me/downloads/pics/WCSP2016-Accuracy.jpg", width='700'><br><br>
+</div>
 
-<img src="http://jinxin.me/downloads/pics/WCSP2016-Accuracy.jpg", width='700'>
 
 If you find our model/method/dataset useful, please cite our work:
 
